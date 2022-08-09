@@ -1,5 +1,5 @@
 {
-  "name": "fastify-api",
+  "name": "tokenManager_ref",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -7,9 +7,6 @@
     "start": "node server"
   },
   "keywords": [
-    "pubnub",
-    "fastify",
-    "pubnub access manager"
   ],
   "author": "mohit",
   "license": "ISC",
