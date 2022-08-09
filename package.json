@@ -1,0 +1,24 @@
+{
+  "name": "fastify-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "keywords": [
+    "pubnub",
+    "fastify",
+    "pubnub access manager"
+  ],
+  "author": "mohit",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "fastify": "^4.3.0",
+    "pubnub": "^7.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "user-1": {
+    "token": "p0F2AkF0GmLpHOJDdHRsD0NyZXOlRGNoYW6haW15Y2hhbm5lbAFDZ3JwoENzcGOgQ3VzcqBEdXVpZKBDcGF0pURjaGFuoENncnCgQ3NwY6BDdXNyoER1dWlkoERtZXRhoENzaWdYIC7LR56loLHW99qRVqzWbwAunhsIp0A6blljnRIdwvOY",
+    "timestamp": 1659589454763,
+    "ttl": 1440,
+    "authorizedUserId": "user-1"
+  },
+  "user-2": {
+    "token": "p0F2AkF0GmLpHOJDdHRsD0NyZXOlRGNoYW6haW15Y2hhbm5lbAFDZ3JwoENzcGOgQ3VzcqBEdXVpZKBDcGF0pURjaGFuoENncnCgQ3NwY6BDdXNyoER1dWlkoERtZXRhoENzaWdYIC7LR56loLHW99qRVqzWbwAunhsIp0A6blljnRIdwvOY",
+    "timestamp": 1659589454798,
+    "ttl": 1440,
+    "authorizedUserId": "user-2"
+  },
+  "user-3": {
+    "token": "p0F2AkF0GmLpHOJDdHRsD0NyZXOlRGNoYW6haW15Y2hhbm5lbAFDZ3JwoENzcGOgQ3VzcqBEdXVpZKBDcGF0pURjaGFuoENncnCgQ3NwY6BDdXNyoER1dWlkoERtZXRhoENzaWdYIC7LR56loLHW99qRVqzWbwAunhsIp0A6blljnRIdwvOY",
+    "timestamp": 1659589454779,
+    "ttl": 1440,
+    "authorizedUserId": "user-3"
+  },
+  "publisher": {
+    "token": "p0F2AkF0GmLw3bVDdHRsD0NyZXOlRGNoYW6kaWNoYW5uZWwtZANpY2hhbm5lbC1jA2ljaGFubmVsLWIDaWNoYW5uZWwtYQFDZ3JwoENzcGOgQ3VzcqBEdXVpZKJmdXVpZC1kGGBmdXVpZC1jGCBDcGF0pURjaGFuoENncnCgQ3NwY6BDdXNyoER1dWlkoERtZXRhoENzaWdYIGLn8iZ2h_8piHNFk4FraXoxKfnTouxHT6h7gIJJ3wWw",
+    "timestamp": 1659952565626,
+    "ttl": 15
+  }
+}
