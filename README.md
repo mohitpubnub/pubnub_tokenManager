@@ -10,5 +10,6 @@ For sake of simplicity, this application persists token in simple json file. Dat
 Provide required keyset values in `.env` file. and run:
 
 ```bash
+npm install
 npm run start
 ```
